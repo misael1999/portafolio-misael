@@ -115,7 +115,8 @@ b.max-bold{ font-weight: 700; }
 	right: 0; background: rgba(0,0,0, .2); }
 
 	
-/* HEADER */
+/* HEADER */
+
 .intro-section .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; margin-bottom: 50px;
 	background: #FFAD01; color: #fff; }
 
@@ -193,7 +194,7 @@ b.max-bold{ font-weight: 700; }
 
 .portfolio-section .portfolioFilter a.current{ color: #FFA804; }
 
-.portfolio-section .portfolioContainer{ margin-left: -15px; margin-right: -15px; }
+.portfolio-section .portfolioContainer{ margin-left: 15px; margin-right: 15px; }
 
 .portfolio-section .p-item{ width: 25%; padding: 0 7.5px 0px; margin-top: 15px; }
 
